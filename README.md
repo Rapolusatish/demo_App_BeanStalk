@@ -33,7 +33,7 @@ Before you begin, ensure you have the following:
 
 3. **Review and Modify Configuration:**
 
-   Open `main.tf` file and review the configuration. Modify the VPC settings, instance types, and any other parameters according to your requirements.
+   Open `terraform.tfvar` file and review the configuration. Modify the VPC settings, instance types, and any other parameters according to your requirements.
 
 4. **Apply the Terraform Configuration:**
 
